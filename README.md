@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @HaizhouGe
-- 👀 I’m interested in 单片机编程、PCB设计、机器人相关研究，写一些自认为不错的程序，做一些软硬件结合的小项目，搞一手高端的机器人。
-- 🌱 I’m currently learning ROS、IsaacSim。
-- 💞️ I’m looking to collaborate on 三维感知联合仿真。
-- 📫 How to reach me ：haizhou_ge@163.com。
-
-<!---
-HaizhouGe/HaizhouGe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 本“多编码器电机控制”项目源自2022年全国大学生机械创新设计大赛的作品。
+- 👀 该作品需要对大量的编码器电机等进行控制，根据需求，选择了STM32F405RGT6这个型号的核心板。
+- 🌱 该项目主要包括单片机程序（基于Keil）、PCB设计（基于立创EDA）。
+- 💞️ 项目中所用到的很多参考资料因为体积较大请移步百度网盘连接进行下载。
+- 📫 由于一些优化原因，项目中的PCB文件和单片机程序存在一定的不对应，使用时请注意一下相关引脚的配置。
